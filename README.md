@@ -76,3 +76,8 @@ being identical counterparts to the original versions of `mergeA` and `mergeB`. 
 integrate the changes from both branches such that `rebaseB` is combined into `rebaseA`. However, instead 
 of a merge, use a ***rebase***. 
 
+#### Exercise 5: Squashing Commits
+In the branch `squash`, you will see that the last three commits are fairly similar, each adding information 
+about a T4SG member named Jayden. Squash these three commits into a single commit titled 
+"added biography information for Jayden". 
+
