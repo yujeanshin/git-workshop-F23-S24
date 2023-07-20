@@ -89,3 +89,13 @@ of a merge, use a **_rebase_**.
 In the branch `squash`, you will see that the last three commits are fairly similar, each adding information
 about a T4SG member named Jayden. Squash these three commits into a single commit titled
 "added biography information for Jayden".
+
+#### Exercise 6: Reverting Commits 
+In `revert`, there were 5 commits made in consecutive order, each labeled from A-E. 
+In a commit *l*, a message was added to `index.md` that reads: "This is a message from commit {l}".
+Make a series of reverts such that the commit history becomes A-B-C-D-E-C'-D' with C' and D'
+referring to commits C and D being reverted. Before executing the reverts, what do you expect `index.md` to
+look like in D'? 
+
+After making these reverts, use `git cherry-pick` to return the branch to a commit identical to that of E.
+
