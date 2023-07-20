@@ -99,3 +99,19 @@ look like in D'?
 
 After making these reverts, use `git cherry-pick` to return the branch to a commit identical to that of E.
 
+#### Exercise 7: Reset Commit History
+There are two branches `reset-soft` and `reset-hard` that are based off `revert`. 
+In each branch, perform a reset (soft on `reset-soft` and hard on `reset-hard`) 
+to bring the commit history back to commit `C`. In `reset-soft` recover your changes 
+to return the branch back to `E`. Unfortunately, once you have pushed changes after a 
+hard reset, they are uncoverable!
+
+#### Exercise 8: Git Issues
+As the last exercise of this workshop, open an issue on the main repository (not the fork)
+and open an Issue with a few sentences. In the Issue, please feel free to either: 
+- Introduce yourself 
+- Talk about something you learned new at this workshop
+- Feedback about how the workshop was run, content, etc. 
+- Anything else! 
+
+Thank you for attending!
