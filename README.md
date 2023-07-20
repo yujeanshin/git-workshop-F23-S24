@@ -59,8 +59,15 @@ Hover over a line of code and click the plus symbol. Add a sample comment. In PR
 
 Merge `answers` into main and navigate to the branches view of the repository. You'll see that `answers` is now marked as ***Merged*** and is now safe to delete. 
 
+#### Exercise 3: Merge Branches and Resolve Conflicts
+There are two branches `mergeA` and `mergeB` each with markdown files labeled from 1 to 6. 
+Make a pull request with `mergeA` as the ***compare*** branch and `mergeB` as the ***base*** branch. 
+Upon comparing each branch, you will see that an automatic merge fails and that you will have to 
+manually resolve conflict files. 
 
-
-
+To resolve the conflicts flagged in the PR, merge `mergeB` into 
+`mergeA` (i.e. `mergeA` will become the merged version of the two) by either accepting the current change, 
+the incoming change, or both changes. Then, once you've resolved all conflicts and commited and push the merge
+to the repository, complete the PR. 
 
 
