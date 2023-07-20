@@ -89,3 +89,4 @@ of a merge, use a **_rebase_**.
 In the branch `squash`, you will see that the last three commits are fairly similar, each adding information
 about a T4SG member named Jayden. Squash these three commits into a single commit titled
 "added biography information for Jayden".
+
