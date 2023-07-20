@@ -1,1 +1,1 @@
-Hi, my name is Jayden.
+Hi, my name is Jayden. I am a CS student at Harvard studying Computer Science. 
