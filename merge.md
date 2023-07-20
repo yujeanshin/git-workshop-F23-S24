@@ -1,7 +1,18 @@
-File A - Line 1
-File A - Line 2
-File A - Line 3
-File A - Line 4
-File A - Line 5
-File A - Line 6
-File A - Line 7
+1. What is Git's primary purpose?
+Answer: Version control
+
+2. How to create a new branch?
+Answer: git create-branch [branch]
+
+3. How to stage changes?
+Answer: git add [file(s)]
+
+4. How to undo last commit?
+Answer: git undo
+
+5. How to push changes?
+Answer: git push
+
+6. How to switch to a new branch?
+Answer: git checkout [branch]
+Answer: git switch [branch]
