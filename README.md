@@ -104,7 +104,7 @@ There are two branches `reset-soft` and `reset-hard` that are based off `revert`
 In each branch, perform a reset (soft on `reset-soft` and hard on `reset-hard`) 
 to bring the commit history back to commit `C`. In `reset-soft` recover your changes 
 to return the branch back to `E`. Unfortunately, once you have pushed changes after a 
-hard reset, they are uncoverable!
+hard reset, they cannot be recovered!
 
 #### Exercise 8: Git Issues
 As the last exercise of this workshop, open an issue on the main repository (not the fork)
