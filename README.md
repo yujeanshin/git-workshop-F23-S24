@@ -53,7 +53,7 @@ Write your answers in `answers.md` (the format is up to you). After you're finis
 make a commit and push your changes. Then, make a PR to merge into main. 
 
 Before merging the PR into main, navigate to the ***Files Changed*** tab, where you'll see files with lines highlighted in 
-green and red. Looking at the base branch as a baseline, green represents additions in the compare branch while red represents deletion. 
+green and red. Looking at the base branch as a baseline, green represents additions in the compare branch while red represents deletions. 
 
 Hover over a line of code and click the plus symbol. Add a sample comment. In PRs, collaborators can reference specific lines of code by making in-line comments. 
 
